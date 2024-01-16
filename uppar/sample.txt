@@ -1,3 +1,2 @@
 git session
 git session branch
-git session revert
